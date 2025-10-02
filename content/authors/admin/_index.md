@@ -118,7 +118,7 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
+  - name: Koreaan
     percent: 50
 
 # Awards.
