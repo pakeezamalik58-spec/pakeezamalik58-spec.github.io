@@ -58,7 +58,7 @@ education:
   Bachelors in Medicine in Nutrion and Dietetics 
   - area: Medicine
     institution: Sargodha Medical College, University of Sargodha, Pakistan.
-    date_start: 2009-09-01
+    date_start: 2016-11-01
     date_end: 2022-07-25
 
       Minored in Mathematics. President of AI Club.
