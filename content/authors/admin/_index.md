@@ -1,20 +1,17 @@
 ---
 # Display name
-title: Alex Johnson
+Pakeeza Abid
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
-
-# Pronouns (optional)
-pronouns: he/him
+first_name: Pakeeza
+last_name: Abid
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,29 +20,23 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Researcher / Graduate Student 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: KDI School of Public Policy and Management, Korea. 
+    url: https://www.kdischool.ac.kr
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+  - icon: unicode
+    url: 'mailto:pakeezamalik58@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/pakeeza-abid-4b719521b/
+
+
 
 interests:
   - Large Language Models
@@ -54,29 +45,21 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: Master of Public Policy (International Development, Sustainable Development)
+    institution: KDI School of Public Policy and Management, South Korea.
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
+      Thesis on _Impact of Unexpected Government Holidays on Suicide Rate in South Korea_. Supervised by ProfDavid Sungho Park. 
+ 
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      url: Work in Progress
+  - area: Development Economics
+    institution: KDI School of Public Policy and Management, South Korea.
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  Bachelors in Medicine in Nutrion and Dietetics 
+  - area: Medicine
+    institution: Sargodha Medical College, University of Sargodha, Pakistan.
     date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+    date_end: 2022-07-25
 
       Minored in Mathematics. President of AI Club.
 
